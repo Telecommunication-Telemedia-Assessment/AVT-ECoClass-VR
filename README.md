@@ -1,7 +1,7 @@
 # AVT-ECoClass-VR
 This is a repository with data related to the AVT-ECoClass-VR database that is published at the IEEE QoMEX 2024 conference.
 However, to download the contents of the dataset it is needed to use the provided tool, because they could not be hosted in this repository.
-This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- Project ECoClass-VR -- DFG-444697733.
+This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project ECoClass-VR (DFG-444697733).
 
 If you use any of the data or code please cite the following paper:
 
@@ -37,7 +37,7 @@ Please cf. the README of the respective IVE to get more information on how to ge
 
 ## Download Tool
 Use the provided download tool for your system to get all the contents which could not be hosted in this repository and extract them.
-Please bear in mind that the total size of the dataset is about 3.6 TB.
+Please bear in mind that the total size of the dataset is about 3.7 TB.
 
 Under Linux, you need `wget` and `unzip` installed and then execute the Shell-script.
 

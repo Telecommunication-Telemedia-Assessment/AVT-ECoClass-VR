@@ -1,0 +1,412 @@
+{
+    "chairs_speaker_story_mapping": [
+        {
+            "chair_1": {
+                "speaker": 17,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_2": {
+                "speaker": 10,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_3": {
+                "speaker": 11,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_4": {
+                "speaker": 7,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_5": {
+                "speaker": 2,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_6": {
+                "speaker": 14,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_7": {
+                "speaker": 1,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_8": {
+                "speaker": 3,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_9": {
+                "speaker": 20,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_10": {
+                "speaker": 4,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_11": {
+                "speaker": 6,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_12": {
+                "speaker": 18,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_13": {
+                "speaker": 15,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_14": {
+                "speaker": 16,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_15": {
+                "speaker": 5,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_16": {
+                "speaker": 19,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_17": {
+                "speaker": 12,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_18": {
+                "speaker": 13,
+                "story": 4,
+                "assigned_story": 11
+            },
+            "chair_19": {
+                "speaker": 8,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_20": {
+                "speaker": 9,
+                "story": 11,
+                "assigned_story": 11
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": 14,
+                "story": 2,
+                "assigned_story": 11
+            },
+            "chair_2": {
+                "speaker": 17,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_3": {
+                "speaker": 8,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_4": {
+                "speaker": 7,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_5": {
+                "speaker": 6,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_6": {
+                "speaker": 3,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_7": {
+                "speaker": 15,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_8": {
+                "speaker": 5,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_9": {
+                "speaker": 9,
+                "story": 8,
+                "assigned_story": 11
+            },
+            "chair_10": {
+                "speaker": 4,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_11": {
+                "speaker": 16,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_12": {
+                "speaker": 12,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_13": {
+                "speaker": 1,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_14": {
+                "speaker": 20,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_15": {
+                "speaker": 18,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_16": {
+                "speaker": 11,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_17": {
+                "speaker": 13,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_18": {
+                "speaker": 10,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_19": {
+                "speaker": 2,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_20": {
+                "speaker": 19,
+                "story": 11,
+                "assigned_story": 11
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": 1,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_2": {
+                "speaker": 10,
+                "story": 2,
+                "assigned_story": 11
+            },
+            "chair_3": {
+                "speaker": 11,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_4": {
+                "speaker": 7,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_5": {
+                "speaker": 5,
+                "story": 1,
+                "assigned_story": 11
+            },
+            "chair_6": {
+                "speaker": 8,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_7": {
+                "speaker": 3,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_8": {
+                "speaker": 17,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_9": {
+                "speaker": 19,
+                "story": 6,
+                "assigned_story": 11
+            },
+            "chair_10": {
+                "speaker": 6,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_11": {
+                "speaker": 9,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_12": {
+                "speaker": 16,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_13": {
+                "speaker": 15,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_14": {
+                "speaker": 14,
+                "story": 9,
+                "assigned_story": 11
+            },
+            "chair_15": {
+                "speaker": 13,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_16": {
+                "speaker": 4,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_17": {
+                "speaker": 18,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_18": {
+                "speaker": 20,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_19": {
+                "speaker": 12,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_20": {
+                "speaker": 2,
+                "story": 4,
+                "assigned_story": 11
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": 2,
+                "story": 5,
+                "assigned_story": 11
+            },
+            "chair_2": {
+                "speaker": 3,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_3": {
+                "speaker": 16,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_4": {
+                "speaker": 15,
+                "story": 3,
+                "assigned_story": 11
+            },
+            "chair_5": {
+                "speaker": 9,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_6": {
+                "speaker": 18,
+                "story": 10,
+                "assigned_story": 11
+            },
+            "chair_7": {
+                "speaker": 5,
+                "story": 9,
+                "assigned_story": 11
+            },
+            "chair_8": {
+                "speaker": 20,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_9": {
+                "speaker": 17,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_10": {
+                "speaker": 11,
+                "story": 4,
+                "assigned_story": 11
+            },
+            "chair_11": {
+                "speaker": 12,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_12": {
+                "speaker": 10,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_13": {
+                "speaker": 13,
+                "story": 2,
+                "assigned_story": 11
+            },
+            "chair_14": {
+                "speaker": 14,
+                "story": 6,
+                "assigned_story": 11
+            },
+            "chair_15": {
+                "speaker": 8,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_16": {
+                "speaker": 4,
+                "story": 8,
+                "assigned_story": 11
+            },
+            "chair_17": {
+                "speaker": 19,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_18": {
+                "speaker": 1,
+                "story": 11,
+                "assigned_story": 11
+            },
+            "chair_19": {
+                "speaker": 7,
+                "story": 7,
+                "assigned_story": 11
+            },
+            "chair_20": {
+                "speaker": 6,
+                "story": 1,
+                "assigned_story": 11
+            }
+        }
+    ]
+}

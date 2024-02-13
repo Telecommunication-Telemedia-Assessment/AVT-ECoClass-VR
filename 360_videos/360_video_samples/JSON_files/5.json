@@ -1,0 +1,57 @@
+{
+    "label": "5",
+    "videos": [
+        {
+            "scene_id": 1,
+            "filename": "5_1_training"
+        },
+        {
+            "scene_id": 2,
+            "filename": "5_2_training"
+        },
+        {
+            "scene_id": 3,
+            "filename": "5_5_training"
+        },
+        {
+            "scene_id": 4,
+            "filename": "5_10_training"
+        },
+        {
+            "scene_id": 5,
+            "filename": "5_2"
+        },
+        {
+            "scene_id": 6,
+            "filename": "5_10"
+        },
+        {
+            "scene_id": 7,
+            "filename": "5_9"
+        },
+        {
+            "scene_id": 8,
+            "filename": "5_6"
+        },
+        {
+            "scene_id": 9,
+            "filename": "5_3"
+        },
+        {
+            "scene_id": 10,
+            "filename": "5_8"
+        },
+        {
+            "scene_id": 11,
+            "filename": "5_7"
+        },
+        {
+            "scene_id": 12,
+            "filename": "5_4"
+        },
+        {
+            "scene_id": 13,
+            "filename": "5_5"
+        }
+    ]
+}
