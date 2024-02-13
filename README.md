@@ -8,7 +8,7 @@ If you use any of the data or code please cite the following paper:
 ```bibtex
 @inproceedings{fremerey2024avt,
     author = {Stephan Fremerey and Carolin Breuer and Larissa Leist and Maria Klatte and Janina Fels and Alexander Raake},
-    title = {AVT-ECoClass-VR: An open-source audiovisual 360$^\circ$ video and immersive CGI multi-talker dataset^to evaluate cognitive performance},
+    title = {AVT-ECoClass-VR: An open-source audiovisual 360$^\circ$ video and immersive CGI multi-talker dataset to evaluate cognitive performance},
     booktitle="2024 16th International Conference on Quality of Multimedia Experience (QoMEX)",
     year = {2024},
     note = {to appear}
