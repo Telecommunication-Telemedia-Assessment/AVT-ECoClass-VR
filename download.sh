@@ -9,10 +9,10 @@ wget -c "$base_url/ecoclass-vr_av-sa_cgi.zip"
 unzip ecoclass-vr_av-sa_cgi.zip
 
 wget -c "$base_url/3d_models_scans/rigged_3d_models.zip" -O 3d_models_scans/rigged_3d_models.zip
-unzip 3d_models_scans/rigged_3d_models.zip
+unzip 3d_models_scans/rigged_3d_models.zip -d "3d_models_scans"
 
 wget -c "$base_url/3d_models_scans/3d_scans.zip" -O 3d_models_scans/3d_scans.zip
-unzip 3d_models_scans/3d_scans.zip
+unzip 3d_models_scans/3d_scans.zip -d "3d_models_scans"
 
 wget -c "$base_url/3d_models_scans/school/school.skp" -O 3d_models_scans/school/school.skp
 wget -c "$base_url/3d_models_scans/school/school.dae" -O 3d_models_scans/school/school.dae
