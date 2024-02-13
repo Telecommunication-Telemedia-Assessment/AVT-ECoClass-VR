@@ -1,6 +1,6 @@
 # AVT-ECoClass-VR
 This is a repository with data related to the AVT-ECoClass-VR database that is published at the IEEE QoMEX 2024 conference.
-However, to download the contents of the dataset it is needed to use the provided tool, because they could not be hosted in this repository.
+However, to download some contents of the dataset it is needed to use the provided tool, because they could not be hosted in this repository.
 This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project ECoClass-VR (DFG-444697733).
 
 If you use any of the data or code please cite the following paper:
