@@ -45,7 +45,7 @@ Under Linux, you need `wget` and `unzip` installed and then execute the Shell-sc
 ./download.sh
 ```
 
-Under Windows, where the download speed may be slower, you need to at first open a PowerShell, then temporarily bypass the execution policy of your PC for this PowerShell session and then execute the batch script:
+Under Windows, where the download speed could be slower, you need to at first open a PowerShell, then temporarily bypass the execution policy of your PC for this PowerShell session and then execute the batch script:
 
 ```bat
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
