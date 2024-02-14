@@ -3,4 +3,4 @@ If downloaded correctly either by using the download tool or directly from [http
 You can open them directly in Blender (download from [here](https://www.blender.org/download)).
 To also display the texture with a lighting, you need to enable the function "Viewport Shading" in the top right corner of Blender:
 
-![Blender viewport shading](blender_viewport_shading.png)
+![Blender viewport shading](../github_images/blender_viewport_shading.png)
