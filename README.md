@@ -41,11 +41,11 @@ Please cf. the README of the respective IVE to get more information on how to ge
 Below, you can find an overview showing an example still image for each of the recorded speakers.
 
 ### Preview 360° video contents
-As follows, one example still image of a rendered video sequence containing 20 speakers is displayed.
 ![Example 360° still image](github_images/360_example_scene_image.jpg)
+*Example 360° still image of a rendered video sequence with 20 speakers*
 
-As follows, one example snippet of a rendered video sequence containing 20 speakers is displayed.
-![Example 360° video snippet](github_images/360_example_scene_video.webp)
+![Example 360° 5s long video snippet](github_images/360_example_scene_video.webp)
+*Example 360° 5s long video snippet of a rendered sequence with 20 speakers*
 
 ## Preview CGI models
 
