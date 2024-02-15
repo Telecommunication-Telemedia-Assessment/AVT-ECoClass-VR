@@ -37,13 +37,17 @@ Please cf. the README of the respective IVE to get more information on how to ge
 
 ## Dataset overview
 
-### 360° video single speakers
-Below, you can find an overview showing an example still image for each of the recorded speakers.
+### 360° video overview
+![360° image of all 20 speakers in the dataset](github_images/360_speakers.jpg)
+*Example 360° images of all 20 speakers in the dataset*
+
+![360° image of the recorded classroom](github_images/360_classroom_image.jpg)
+*360° image of the recorded classroom*
+
+### 3D scans overview
+*3D scans of all 20 speakers in the dataset*
 
 ### Preview 360° video contents
-![Example 360° still image](github_images/360_example_scene_image.jpg)
-*Example 360° still image of a rendered video sequence with 20 speakers*
-
 ![Example 360° 5s long video snippet](github_images/360_example_scene_video.webp)
 *Example 360° 5s long video snippet of a rendered sequence with 20 speakers*
 
