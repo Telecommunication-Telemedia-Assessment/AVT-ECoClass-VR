@@ -51,9 +51,6 @@ Please cf. the README of the respective IVE to get more information on how to ge
 ![Example 360° 5s long video snippet](github_images/360_example_scene_video.webp)
 *Example 360° 5s long video snippet of a rendered sequence with 20 speakers*
 
-## Preview CGI models
-
-
 ## Download Tool
 Use the provided download tool for your system to get all the contents which could not be hosted in this repository and extract them.
 Please bear in mind that the total size of the dataset is about 3.7 TB.
