@@ -46,6 +46,7 @@ Please cf. the README of the respective IVE to get more information on how to ge
 
 ### 3D scans overview
 ![3D scan preview images of all 20 speakers in the dataset](github_images/cgi_speakers.jpg)
+
 *3D scan preview images of all 20 speakers in the dataset*
 
 ### Preview 360° video contents
