@@ -45,7 +45,8 @@ Please cf. the README of the respective IVE to get more information on how to ge
 *360° image of the recorded classroom*
 
 ### 3D scans overview
-*3D scans of all 20 speakers in the dataset*
+![3D scan preview images of all 20 speakers in the dataset](github_images/cgi_speakers.jpg)
+*3D scan preview images of all 20 speakers in the dataset*
 
 ### Preview 360° video contents
 ![Example 360° 5s long video snippet](github_images/360_example_scene_video.webp)
