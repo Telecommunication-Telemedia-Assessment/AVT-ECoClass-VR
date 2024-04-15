@@ -19,14 +19,14 @@ If you use any of the data or code please cite the following paper:
 To obtain the following structure, you need to at first execute the respective download tool.
 
 * `360_videos`
-    * `360_video_recordings`: 220 different video recordings, 360° image of the classroom
-    * `360_video_samples`: Set of 65 pre-rendered 360° video recordings for 5 subjects in ERP format encoded with libx265 and CRF of 1
+    * `360_video_recordings`: 220 different video recordings (MOV, GoPro CineForm HD codec, 7680x3840, 29.97 fps), 360° image of the classroom
+    * `360_video_samples`: Set of 65 pre-rendered 360° video recordings for 5 subjects in ERP format encoded with libx265 and CRF of 1 (MP4, HEVC codec, 7680x3840, 29.97 fps)
     * `miscellaneous`: Python scripts for potential generation of further 360° video recordings and JSON files
 * `3d_models_scans`
     * `3d_scans`: Non-rigged 3D scans of 20 different persons
     * `rigged_3d_models`: Rigged 3D models of 20 different persons
     * `school`: 3D model of classroom in DAE and SKP data format
-* `audio`: 200 different single-channel audio recordings
+* `audio`: 200 different single-channel audio recordings (WAV, pcm_s24le codec, 48000 Hz)
 * `ecoclass-vr_av-sa_360` : 360° implementation of the IVE
 * `ecoclass-vr_av-sa_cgi`: CGI implementation of the IVE
 * `subjective_data`: Example output data from 5 subjects
