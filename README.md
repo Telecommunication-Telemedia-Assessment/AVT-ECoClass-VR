@@ -23,10 +23,10 @@ As of now, most studies have examined rather simple acoustic and visual represen
 An adapted version of the audiovisual scene analysis paradigm is presented in this dataset, focusing on the localization and identification of talkers within a scene.
 The dataset includes two audiovisual scenarios (360° video and computer-generated imagery) and two implementations for dataset playback.
 The 360° video part of the dataset features 200 video and single-channel audio recordings of 20 speakers reading ten stories, and 20 videos of speakers in silence, resulting in a total of 220 video and 200 audio recordings.
-The dataset also includes one 360° background image of a real primary school classroom scene, targeting young school children for subsequent subjective tests.
+The dataset also includes one 360° background image of a real primary school classroom scene and a 3D model of the same classroom scene, targeting young school children for subsequent subjective tests.
 All stories were recorded in the German language with native German speakers.
 The second part of the dataset comprises 20 different 3D models of the speakers and a computer-generated classroom scene, along with an immersive audiovisual virtual environment implementation that can be interacted with using an HTC Vive controller.
-Both implementations also include a Unity plugin to connect and interact with the [Virtual Acoustics](https://www.virtualacoustics.org) auralization software.
+Both implementations also include a Unity plugin to connect and interact with the [Virtual Acoustics](https://www.virtualacoustics.org) auralization framework, developed by the Institute for Hearing Technology and Acoustics (IHTA) at RWTH Aachen University.
 As a proof of concept, the dataset includes example output data collected from ongoing perception tests.
 There, subjects have the task of identifying which talker in the scene is reading out which story, using the story-to-speaker mapping input system developed within this dataset.
 
@@ -48,7 +48,7 @@ To obtain the following folder structure, you need to at first execute the respe
     * `av-sa_360_binaural`: Example output data (head rotation and speaker-to-story mappings) for the 360° IVE (binaural audio condition)
     * `av-sa_cgi_binaural`: Example output data (head rotation and speaker-to-story mappings) for the CGI IVE (binaural audio condition)
 
-Please cf. the README of the respective IVE to get more information on how to get them running.
+Please cf. the paper for more details and the README of the respective IVE to get more information on how to get them running.
 
 ## Dataset overview
 
@@ -69,7 +69,8 @@ Please cf. the README of the respective IVE to get more information on how to ge
 *Example 360° 5s long video snippet of a rendered sequence with 20 speakers*
 
 ## Download Tool
-Use the provided download tool for your system to get all the contents which could not be hosted in this repository and extract them.
+At first, you need to clone this repository.
+Then, you need to use the provided download tool for your system to download all the contents which could not be hosted in this repository and extract them.
 Please bear in mind that the total size of the dataset is about 3.7 TB.
 
 Under Linux, you need `wget` and `unzip` installed and then execute the Shell-script.
@@ -78,14 +79,13 @@ Under Linux, you need `wget` and `unzip` installed and then execute the Shell-sc
 ./download.sh
 ```
 
-Under Windows, where the download speed could be slower, you need to at first open a PowerShell, then temporarily bypass the execution policy of your PC for this PowerShell session and then execute the batch script:
+Under Windows, you need to at first open a cmd or terminal session and then execute the Batch script:
 
 ```bat
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\download.bat
 ```
 
-This will automatically download all contents to their respective folders as described above in "Structure".
+This will automatically download and extract all contents to their respective folders as described above in "Structure".
 
 As an alternative to using the provided download tool or if you only want to download parts of the dataset, you may also manually download all contents you need. They can be found here: [https://avtshare01.rz.tu-ilmenau.de/avt-ecoclass-vr/](https://avtshare01.rz.tu-ilmenau.de/avt-ecoclass-vr/)
 
