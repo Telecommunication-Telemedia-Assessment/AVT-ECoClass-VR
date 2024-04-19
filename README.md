@@ -17,8 +17,21 @@ If you use any of the data or code please cite the following paper:
 }
 ```
 
+## Description
+The dataset is part of the project [ECoClass-VR](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group/research/dfg-projekt-ecoclass-vr) to assess how complex visual and acoustic scenes affect cognitive performance in classroom scenarios, across age groups from children to adults.
+As of now, most studies have examined rather simple acoustic and visual representations, which do not reflect the reality of school children.
+An adapted version of the audiovisual scene analysis paradigm is presented in this dataset, focusing on the localization and identification of talkers within a scene.
+The dataset includes two audiovisual scenarios (360° video and computer-generated imagery) and two implementations for dataset playback.
+The 360° video part of the dataset features 200 video and single-channel audio recordings of 20 speakers reading ten stories, and 20 videos of speakers in silence, resulting in a total of 220 video and 200 audio recordings.
+The dataset also includes one 360° background image of a real primary school classroom scene, targeting young school children for subsequent subjective tests.
+All stories were recorded in the German language with native German speakers.
+The second part of the dataset comprises 20 different 3D models of the speakers and a computer-generated classroom scene, along with an immersive audiovisual virtual environment implementation that can be interacted with using an HTC Vive controller.
+Both implementations also include a Unity plugin to connect and interact with the [Virtual Acoustics](https://www.virtualacoustics.org) auralization software.
+As a proof of concept, the dataset includes example output data collected from ongoing perception tests.
+There, subjects have the task of identifying which talker in the scene is reading out which story, using the story-to-speaker mapping input system developed within this dataset.
+
 ## Structure
-To obtain the following structure, you need to at first execute the respective download tool.
+To obtain the following folder structure, you need to at first execute the respective [download tool](#download-tool).
 
 * `360_videos`
     * `360_video_recordings`: 220 different video recordings (MOV, GoPro CineForm HD codec, 7680x3840, 29.97 fps), 360° image of the classroom
