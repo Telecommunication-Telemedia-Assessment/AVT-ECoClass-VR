@@ -16,6 +16,10 @@ unzip 3d_models_scans/3d_scans.zip -d "3d_models_scans"
 
 wget -c "$base_url/3d_models_scans/school/school.skp" -O 3d_models_scans/school/school.skp
 wget -c "$base_url/3d_models_scans/school/school.dae" -O 3d_models_scans/school/school.dae
+wget -c "$base_url/3d_models_scans/school/school.blend" -O 3d_models_scans/school/school.blend
+wget -c "$base_url/3d_models_scans/school/school.glb" -O 3d_models_scans/school/school.glb
+wget -c "$base_url/3d_models_scans/school/school_fbx.zip" -O 3d_models_scans/school/school_fbx.zip
+unzip 3d_models_scans/school_fbx.zip -d "school_fbx"
 
 wget -c "$base_url/audio/8_6.wav" -O audio/8_6.wav
 wget -c "$base_url/audio/6_1.wav" -O audio/6_1.wav

@@ -15,6 +15,10 @@ tar.exe -xf "3d_models_scans/3d_scans.zip" -C "3d_models_scans"
 
 curl.exe "%baseUrl%/3d_models_scans/school/school.skp" -o "3d_models_scans/school/school.skp"
 curl.exe "%baseUrl%/3d_models_scans/school/school.dae" -o "3d_models_scans/school/school.dae"
+curl.exe "%baseUrl%/3d_models_scans/school/school.blend" -o "3d_models_scans/school/school.blend"
+curl.exe "%baseUrl%/3d_models_scans/school/school.glb" -o "3d_models_scans/school/school.glb"
+curl.exe "%baseUrl%/3d_models_scans/school/school_fbx.zip" -o "3d_models_scans/school/school_fbx.zip"
+tar.exe -xf "3d_models_scans/school_fbx.zip" -C "school_fbx"
 
 curl.exe "%baseUrl%/audio/8_6.wav" -o "audio/8_6.wav"
 curl.exe "%baseUrl%/audio/6_1.wav" -o "audio/6_1.wav"

@@ -41,7 +41,7 @@ To obtain the following folder structure, you need to at first execute the respe
 * `3d_models_scans`
     * `3d_scans`: Non-rigged 3D scans of 20 different persons
     * `rigged_3d_models`: Rigged 3D models of 20 different persons
-    * `school`: 3D model of classroom in DAE and SKP data format
+    * `school`: 3D model of classroom in DAE and SKP data format; **NEW** also available in Blender, FBX binary and glTF 2.0 file format
 * `audio`: 200 different single-channel audio recordings (WAV, pcm_s24le codec, 48000 Hz) and the German stories in text format
 * `ecoclass-vr_av-sa_360` : 360° implementation of the IVE
 * `ecoclass-vr_av-sa_cgi`: CGI implementation of the IVE
